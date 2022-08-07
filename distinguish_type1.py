@@ -1,6 +1,6 @@
+import os
 def type1_cat():
     #file directory
-    import os
     xls_dir = 'xlsx directory'
     files = os.listdir('xslx directory')
     #find files
